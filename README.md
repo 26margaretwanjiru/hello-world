@@ -19,3 +19,5 @@ ggplot(mtcars, aes(factor(cyl), mpg)) +
   enter_fade() + 
   exit_shrink() +
   ease_aes('sine-in-out')
+
+https://github.com/26margaretwanjiru/hello-world/blob/master/Rlogobanana.gif
